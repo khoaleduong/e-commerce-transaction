@@ -4,6 +4,8 @@ The focus is on how data pipelines actually work —  processing only what chang
 
 ---
 
+![Data Pipeline](databricks.png)
+
 ## Case Study
 
 We are working with an e-commerce system that generates data across:
